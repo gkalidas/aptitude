@@ -1,0 +1,32 @@
+22 May
+
+Probality:
+
+     If two coins are tossed,  S = {HH, HT, TH, TT}.
+
+     In rolling a dice,  S = {1, 2, 3, 4, 5, 6}.
+
+Probability of Occurrence of an Event:
+
+ P(E) =	n(E)
+        n(S)
+
+Results on Probability:
+
+        P(S) = 1
+        
+        0<P(E)<1
+        
+        P() = 0
+
+For any events A and B we have : P(A  B) = P(A) + P(B) - P(A  B)
+
+If A denotes (not-A), then P(A) = 1 - P(A).
+
+
+
+
+
+
+
+
